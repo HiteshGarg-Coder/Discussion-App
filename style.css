@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    .title_header {
+    padding: 15px 15px;
+    background-color: teal;
+    }
+    .box {
+    display: flex;
+    }
+    .left {
+    width: 40%;
+    min-height: 100vh;
+    border-right: 1px solid lightgrey;
+    background-color: whitesmoke;
+    }
+    .right {
+    width: 60%;
+    min-height: 100vh;
+    background-color: white;
+    }
+    .search-bttn {
+    margin-left: 20px;
+    }
+    .input_search {
+    height: 37px;
+    padding: 10px 10px;
+    margin-left: 20px;
+    margin-top: 5px;
+    }
